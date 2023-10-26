@@ -5,4 +5,6 @@ git init
 
 git add abc.txt
 
-git add.
+git add .
+
+git commit -n "This is my commit"
