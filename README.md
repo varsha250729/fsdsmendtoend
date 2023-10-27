@@ -8,3 +8,6 @@ git add abc.txt
 git add .
 
 git commit -n "This is my commit"
+
+git pull
+
